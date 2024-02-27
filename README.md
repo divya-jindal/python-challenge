@@ -1,7 +1,7 @@
 # python-challenge
-##This Python script analyzes financial and election data for a fictional company. It combines functionalities for both PyBank and PyPoll.
+## This Python script analyzes financial and election data for a fictional company. It combines functionalities for both PyBank and PyPoll.
 
-##Features
+## Features
 * PyBank Analysis: Analyzes financial records to calculate total months, total profits/losses, average change, greatest increase in profits, and greatest decrease in losses.
 * PyPoll Analysis: Analyzes election data to calculate total votes, each candidate's total votes and percentage of votes, and determine the winner.
 
@@ -27,7 +27,7 @@ CSV file containing election data with columns: "Voter ID" and "Candidate"
 ## Output
 The script will print the election analysis results to the terminal in the following format:
 
-<insert picture> 
+<img width="288" alt="image" src="https://github.com/divya-jindal/python-challenge/assets/10901784/efc78307-a137-4e66-af36-deb3c938424e">
 
 Additionally, the analysis results will be exported to a text file named election_analysis.txt in the "Analysis" folder.
 
@@ -53,6 +53,6 @@ PyBank Financial Analysis is a Python script designed to analyze the financial r
 ## Output
 The script will print the financial analysis results to the terminal in the following format:*
 
-<insert picture> 
+<img width="341" alt="image" src="https://github.com/divya-jindal/python-challenge/assets/10901784/dc369f3c-d89e-4128-a00d-abbc198f8518">
 
 Additionally, the analysis results will be exported to a text file named financial_analysis.txt in the "Analysis" folder.
